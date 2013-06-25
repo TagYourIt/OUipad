@@ -1,0 +1,711 @@
+Tou_iPad
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Info.plist ou_iPad/ou_iPad-Info.plist
+cPhaseScriptExecution "Copy www directory" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+cCpResource ou_iPad/config.xml Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/config.xml
+cCpResource ou_iPad/Resources/icons/icon-72.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72.png
+cCpResource ou_iPad/Resources/icons/icon.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon.png
+cCpResource ou_iPad/Resources/icons/icon@2x.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon@2x.png
+cCpResource ou_iPad/Resources/Capture.bundle Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Capture.bundle
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/es.lproj/Localizable.strings ou_iPad/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/en.lproj/Localizable.strings ou_iPad/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/de.lproj/Localizable.strings ou_iPad/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/se.lproj/Localizable.strings ou_iPad/Resources/se.lproj/Localizable.strings
+cCpResource ou_iPad/Resources/splash/Default-Landscape~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape~ipad.png
+cCpResource ou_iPad/Resources/splash/Default-Portrait~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait~ipad.png
+cCpResource ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait@2x~ipad.png
+cCpResource ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape@2x~ipad.png
+cCpResource ou_iPad/Resources/splash/Default~iphone.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default~iphone.png
+cCpResource ou_iPad/Resources/splash/Default@2x~iphone.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default@2x~iphone.png
+cCpResource ou_iPad/Resources/splash/Default-568h@2x~iphone.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-568h@2x~iphone.png
+cCpResource ou_iPad/Resources/icons/icon-72@2x.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72@2x.png
+cProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad normal i386
+cGenerateDSYMFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad
+cTouch /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BE55EF0000000000000110
+t1371428335
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000510B0DB600000000001EB540
+t1359678902
+s2012480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000510B0DB500000000000C1030
+t1359678901
+s790576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000510B0DB60000000000193640
+t1359678902
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000510B0DB600000000000226E0
+t1359678902
+s141024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000510B0DB600000000003D4DF0
+t1359678902
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000510B0DB60000000000215DB0
+t1359678902
+s2186672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510B0DB60000000000228FE0
+t1359678902
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000510B0DB7000000000009C590
+t1359678903
+s640400
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000510B0DB70000000000085620
+t1359678903
+s546336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510B0DB800000000003DDFA0
+t1359678904
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000510B0DBA00000000002CFBE0
+t1359678906
+s2948064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000510B0DBB00000000002DBA50
+t1359678907
+s2996816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000510B0DBC00000000000BCC20
+t1359678908
+s773152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c00000000510B0DBC0000000000030EB0
+t1359678908
+s200368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000510B0DBD00000000001D5750
+t1359678909
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000510B0DBE000000000006CC50
+t1359678910
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510B0DC00000000000AB6230
+t1359678912
+s11231792
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.pth
+t1371783007
+s4671688
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.o
+t1371783008
+s96532
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.o
+t1371783007
+s78656
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.o
+t1371783007
+s3144
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/ou_iPad.LinkFileList
+c0000000051C3BF5C0000000000000219
+t1371783004
+s537
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+c0000000051C3BF5C000000000000051A
+t1371783004
+s1306
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVAvailability.h
+c0000000051C3BF590000000000000C29
+t1371783001
+s3113
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVCommandDelegate.h
+c0000000051C3BF5900000000000008BA
+t1371783001
+s2234
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVCommandDelegateImpl.h
+c0000000051C3BF590000000000000473
+t1371783001
+s1139
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVCommandQueue.h
+c0000000051C3BF590000000000000501
+t1371783001
+s1281
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVInvokedUrlCommand.h
+c0000000051C3BF590000000000000906
+t1371783001
+s2310
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVPlugin.h
+c0000000051C3BF590000000000000892
+t1371783001
+s2194
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVPluginResult.h
+c0000000051C3BF590000000000000C13
+t1371783001
+s3091
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVScreenOrientationDelegate.h
+c0000000051C3BF590000000000000408
+t1371783001
+s1032
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h
+c0000000051C3BF590000000000000B67
+t1371783001
+s2919
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVWhitelist.h
+c0000000051C3BF5900000000000004B4
+t1371783001
+s1204
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c0000000051C3BF5900000000000003A0
+t1371783001
+s928
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/libCordova.a
+c0000000051C3BF5C000000000036D340
+t1371783004
+s3593024
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app
+t1371786347
+s782
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM
+t1371783009
+s102
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Capture.bundle
+t1371783006
+s782
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-568h@2x~iphone.png
+t1371783006
+s34225
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape@2x~ipad.png
+t1371783006
+s77300
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape~ipad.png
+t1371783006
+s34935
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait@2x~ipad.png
+t1371783006
+s76546
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait~ipad.png
+t1371783006
+s34278
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default@2x~iphone.png
+t1371783006
+s29475
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default~iphone.png
+t1371783006
+s10394
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Info.plist
+t1371786346
+s1045
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/MainViewController.nib
+t1371783007
+s822
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/PkgInfo
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/config.xml
+t1371785643
+s4403
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/de.lproj/Localizable.strings
+t1371783006
+s280
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/en.lproj/Localizable.strings
+t1371783006
+s166
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/es.lproj/Localizable.strings
+t1371783006
+s334
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72.png
+t1371783006
+s4944
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72@2x.png
+t1371783006
+s11706
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon.png
+t1371783006
+s3902
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon@2x.png
+t1371783006
+s7869
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad
+t1371783009
+s932504
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/se.lproj/Localizable.strings
+t1371783006
+s283
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.h
+c0000000051C3BB2D00000000000005B3
+t1371781933
+s1459
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m
+c0000000051C3BB2D00000000000013D4
+t1371781933
+s5076
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.h
+c0000000051C3BB2D00000000000004CD
+t1371781933
+s1229
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m
+c0000000051C3BB2D0000000000001268
+t1371781933
+s4712
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+c0000000051C3BB2C0000000000001759
+t1371781932
+s5977
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/Capture.bundle
+c0000000051C3BB2D000000000000030E
+t1371781933
+s782
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/de.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004BF
+t1371781933
+s1215
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/en.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004AA
+t1371781933
+s1194
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/es.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004B7
+t1371781933
+s1207
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72.png
+c0000000051C3BB2D0000000000001350
+t1371781933
+s4944
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72@2x.png
+c0000000051C3BB2D0000000000002DBA
+t1371781933
+s11706
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon.png
+c0000000051C3BB2D0000000000000F3E
+t1371781933
+s3902
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon@2x.png
+c0000000051C3BB2D0000000000001EBD
+t1371781933
+s7869
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/se.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004AB
+t1371781933
+s1195
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-568h@2x~iphone.png
+c0000000051C3BB2D00000000000085B1
+t1371781933
+s34225
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000051C3BB2D0000000000012DF4
+t1371781933
+s77300
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape~ipad.png
+c0000000051C3BB2D0000000000008877
+t1371781933
+s34935
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000051C3BB2D0000000000012B02
+t1371781933
+s76546
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait~ipad.png
+c0000000051C3BB2D00000000000085E6
+t1371781933
+s34278
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default@2x~iphone.png
+c0000000051C3BB2D0000000000007323
+t1371781933
+s29475
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default~iphone.png
+c0000000051C3BB2D000000000000289A
+t1371781933
+s10394
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/config.xml
+c0000000051C3C9A40000000000001133
+t1371785636
+s4403
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m
+c0000000051C3BB2D0000000000000459
+t1371781933
+s1113
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch
+c0000000051C3BB2D00000000000003BF
+t1371781933
+s959
+
+Nou_iPad/ou_iPad-Info.plist
+c0000000051C3C8850000000000000665
+t1371785349
+s1637
+
+CBuild AST from /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m
+r0
+
+CBuild AST from /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf3ae862b0574b741^afec862b0574b741^---0#1#0#--18"Check dependencies36"3EE14780-3DEA-46C2-A3E9-D31F8138E6AF-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475807.920562
+e393475808.067674
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]
+o    self.viewController.useSplashScreen = YES;
+o                        ^
+o/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here
+o@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");
+o                                              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m61e2ebdff673b741^725111e0f673b741^-754"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]    self.viewController.useSplashScreen = YES;                        ^/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");                                              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@128"'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property.-393475808#18446744073709551615#0#1(2@31"'useSplashScreen' declared here-393475808#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/CordovaLib/Classes/CDVViewController.h0000000000000000^45#46#45#46#1826#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@106"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m0000000000000000^79#24#79#24#2692#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@106"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m0000000000000000^4177"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.o ou_iPad/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources/i386 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/AppDelegate.o36"2A552C6F-A72F-434D-A3F0-6A43A7312733-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475807.920544
+e393475808.003067
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m78d5ebdff673b741^04c800e0f673b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m0000000000000000^4219"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.o ou_iPad/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources/i386 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/MainViewController.o36"BC3101F1-113B-4249-86CF-368DE99D86DB-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475807.920531
+e393475807.992936
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m71e2ebdff673b741^5530fedff673b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m0000000000000000^4119"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.o ou_iPad/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources/i386 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/main.o36"890D69B0-D3EB-4763-AD66-E743EC553A7D-
+
+CCompileXIB /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+s393475806.345555
+e393475807.434745
+r1
+xCompileXIB
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+o2013-06-20 21:50:07.014 Interface Builder Cocoa Touch Tool[15921:f07] CFPreferences: user home directory at file://localhost/Users/void/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xibe78c58def673b741^d0606fdff673b741^-237"2013-06-20 21:50:07.014 Interface Builder Cocoa Touch Tool[15921:f07] CFPreferences: user home directory at file://localhost/Users/void/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib0000000000000000^1004"CompileXIB ou_iPad/Classes/MainViewController.xib    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/MainViewController.nib /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"7151304D-1A6A-49BF-B3BE-A26CA457BD06-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/de.lproj/Localizable.strings ou_iPad/Resources/de.lproj/Localizable.strings
+s393475806.355441
+e393475806.387242
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/de.lproj/Localizable.strings
+xou_iPad/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/de.lproj/Localizable.strings4c1a5bdef673b741^d92463def673b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/de.lproj/Localizable.strings0000000000000000^691"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/de.lproj/Localizable.strings ou_iPad/Resources/de.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/de.lproj -- ou_iPad/Resources/de.lproj/Localizable.strings36"CCF66FF0-AB71-4E1F-88C0-3645905DB2C4-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/en.lproj/Localizable.strings ou_iPad/Resources/en.lproj/Localizable.strings
+s393475806.345543
+e393475806.376083
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/en.lproj/Localizable.strings
+xou_iPad/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/en.lproj/Localizable.stringsf38d58def673b741^844660def673b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/en.lproj/Localizable.strings0000000000000000^691"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/en.lproj/Localizable.strings ou_iPad/Resources/en.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/en.lproj -- ou_iPad/Resources/en.lproj/Localizable.strings36"90B951D4-C088-4C90-BA53-CDB3D6E3523E-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/es.lproj/Localizable.strings ou_iPad/Resources/es.lproj/Localizable.strings
+s393475806.345525
+e393475806.375206
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/es.lproj/Localizable.strings
+xou_iPad/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/es.lproj/Localizable.stringsf38d58def673b741^e90c60def673b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/es.lproj/Localizable.strings0000000000000000^691"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/es.lproj/Localizable.strings ou_iPad/Resources/es.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/es.lproj -- ou_iPad/Resources/es.lproj/Localizable.strings36"7A8BE428-1BE6-4B10-BA95-5C460EF47537-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/se.lproj/Localizable.strings ou_iPad/Resources/se.lproj/Localizable.strings
+s393475806.376473
+e393475806.388285
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/se.lproj/Localizable.strings
+xou_iPad/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/se.lproj/Localizable.strings8e7660def673b741^1b6763def673b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/se.lproj/Localizable.strings0000000000000000^691"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/se.lproj/Localizable.strings ou_iPad/Resources/se.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/se.lproj -- ou_iPad/Resources/se.lproj/Localizable.strings36"0111F296-0FA1-40CF-A75A-30A4CD73141B-
+
+CCpResource ou_iPad/Resources/Capture.bundle Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Capture.bundle
+s393475806.344500
+e393475806.354094
+r1
+xCpResource
+xou_iPad/Resources/Capture.bundle
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Capture.bundle2b4b58def673b741^83a55adef673b741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Capture.bundle000000000080d041^715"CpResource ou_iPad/Resources/Capture.bundle Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Capture.bundle    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/Capture.bundle /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"3FC35117-8408-4698-88A5-0D0975322200-
+
+CCpResource ou_iPad/Resources/icons/icon-72.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72.png
+s393475806.327863
+e393475806.335442
+r1
+xCpResource
+xou_iPad/Resources/icons/icon-72.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72.png9b0354def673b741^ee3d58def673b741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72.png000000000080d041^718"CpResource ou_iPad/Resources/icons/icon-72.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72.png    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72.png /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"40DC587F-FE84-47DC-A7C9-13E255D5B89B-
+
+CCpResource ou_iPad/Resources/icons/icon-72@2x.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72@2x.png
+s393475806.390866
+e393475806.394025
+r1
+xCpResource
+xou_iPad/Resources/icons/icon-72@2x.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72@2x.pngc82364def673b741^cae064def673b741^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72@2x.png000000000080d041^733"CpResource "ou_iPad/Resources/icons/icon-72@2x.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon-72@2x.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72@2x.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"321A1A19-0163-4123-88C4-1DFA095F79A9-
+
+CCpResource ou_iPad/Resources/icons/icon.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon.png
+s393475806.328110
+e393475806.344580
+r1
+xCpResource
+xou_iPad/Resources/icons/icon.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon.png551354def673b741^af4458def673b741^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon.png000000000080d041^709"CpResource ou_iPad/Resources/icons/icon.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon.png    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon.png /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"9E5A615A-EA58-452F-8BD9-D0DE501FD73B-
+
+CCpResource ou_iPad/Resources/icons/icon@2x.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon@2x.png
+s393475806.328315
+e393475806.345341
+r1
+xCpResource
+xou_iPad/Resources/icons/icon@2x.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon@2x.pngfb1f54def673b741^236858def673b741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon@2x.png000000000080d041^724"CpResource "ou_iPad/Resources/icons/icon@2x.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/icon@2x.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon@2x.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"F939F008-E7B9-41A2-8083-A2245F4E9E6B-
+
+CCpResource ou_iPad/Resources/splash/Default-568h@2x~iphone.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-568h@2x~iphone.png
+s393475806.390847
+e393475806.392882
+r1
+xCpResource
+xou_iPad/Resources/splash/Default-568h@2x~iphone.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-568h@2x~iphone.png142264def673b741^b89364def673b741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-568h@2x~iphone.png000000000080d041^771"CpResource "ou_iPad/Resources/splash/Default-568h@2x~iphone.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-568h@2x~iphone.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-568h@2x~iphone.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"2B540638-EA9F-4CE1-93FA-145306CC8B02-
+
+CCpResource ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape@2x~ipad.png
+s393475806.376461
+e393475806.378886
+r1
+xCpResource
+xou_iPad/Resources/splash/Default-Landscape@2x~ipad.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape@2x~ipad.png607560def673b741^8bfe60def673b741^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape@2x~ipad.png000000000080d041^780"CpResource "ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape@2x~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"0067F80F-CCA8-4DAA-94E2-EED118083E68-
+
+CCpResource ou_iPad/Resources/splash/Default-Landscape~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape~ipad.png
+s393475806.380142
+e393475806.382450
+r1
+xCpResource
+xou_iPad/Resources/splash/Default-Landscape~ipad.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape~ipad.png1f6461def673b741^53eb61def673b741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape~ipad.png000000000080d041^771"CpResource "ou_iPad/Resources/splash/Default-Landscape~ipad.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Landscape~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape~ipad.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"F2C5AB55-14F7-4C0E-9AE3-BAB20A005183-
+
+CCpResource ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait@2x~ipad.png
+s393475806.383741
+e393475806.386249
+r1
+xCpResource
+xou_iPad/Resources/splash/Default-Portrait@2x~ipad.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait@2x~ipad.png8b4e62def673b741^7ee062def673b741^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait@2x~ipad.png000000000080d041^777"CpResource "ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait@2x~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"C4CBF37C-D001-4315-8EF8-A7C3096A754A-
+
+CCpResource ou_iPad/Resources/splash/Default-Portrait~ipad.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait~ipad.png
+s393475806.387449
+e393475806.390627
+r1
+xCpResource
+xou_iPad/Resources/splash/Default-Portrait~ipad.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait~ipad.pngbf4563def673b741^110064def673b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait~ipad.png000000000080d041^768"CpResource "ou_iPad/Resources/splash/Default-Portrait~ipad.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default-Portrait~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait~ipad.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"0EF03D1D-42A6-4346-9602-F36BF6B0BC28-
+
+CCpResource ou_iPad/Resources/splash/Default@2x~iphone.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default@2x~iphone.png
+s393475806.387453
+e393475806.389683
+r1
+xCpResource
+xou_iPad/Resources/splash/Default@2x~iphone.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default@2x~iphone.png634363def673b741^b1c463def673b741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default@2x~iphone.png000000000080d041^756"CpResource "ou_iPad/Resources/splash/Default@2x~iphone.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default@2x~iphone.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default@2x~iphone.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"AD9F12E9-FD6C-456E-8B20-BEB0BCD12463-
+
+CCpResource ou_iPad/Resources/splash/Default~iphone.png Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default~iphone.png
+s393475806.389456
+e393475806.391740
+r1
+xCpResource
+xou_iPad/Resources/splash/Default~iphone.png
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default~iphone.png0ccb63def673b741^024964def673b741^---0#0#0#-19%DVTDocumentLocation2@158"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default~iphone.png000000000080d041^747"CpResource "ou_iPad/Resources/splash/Default~iphone.png" "Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Default~iphone.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default~iphone.png" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"2E32716A-A933-475B-8F8B-D2E8A1D57799-
+
+CCpResource ou_iPad/config.xml Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/config.xml
+s393478443.254800
+e393478443.257002
+r1
+xCpResource
+xou_iPad/config.xml
+xBuild/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/config.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/config.xmlf04f412b0174b741^68cb412b0174b741^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/config.xml0000000000000000^683"CpResource ou_iPad/config.xml Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/config.xml    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/config.xml /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"92534414-2EBA-45E1-BFAC-8E4E72875589-
+
+CGenerateDSYMFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad
+s393475809.737381
+e393475809.871565
+r1
+xGenerateDSYMFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Generate /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM3ae6bce1f673b741^7121dfe1f673b741^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM000000000080d041^783"GenerateDSYMFile Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app.dSYM36"0FD0117F-5773-4564-A056-67B25E1D35C5-
+
+CLd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad normal i386
+s393475808.074793
+e393475809.730348
+r1
+xLd
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad334e13e0f673b741^48fcbae1f673b741^---0#0#0#--1999"Ld Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad normal i386    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -filelist /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/ou_iPad.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework CoreLocation -framework ImageIO -framework OpenAL -framework AssetsLibrary /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -framework CoreLocation -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/ou_iPad36"61866FE6-60E3-40A9-9BC3-0CF2A1F072B7-
+
+CPhaseScriptExecution "Copy www directory" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+s393479467.546329
+e393479468.795064
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m1.229s
+ouser	0m0.474s
+osys	0m0.688s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'b5a78c2b0574b741^6d8ecb2c0574b741^-42"real	0m1.229suser	0m0.474ssys	0m0.688s3(21%IDEActivityLogMessage2@14"real	0m1.229s-393479468#1#14#-0#-----2@14"user	0m0.474s-393479468#15#14#-0#-----2@13"sys	0m0.688s-393479468#29#13#-0#-----0#0#0#--22467"PhaseScriptExecution "Copy www directory" Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Script-304B58A110DAC018002A0835.sh    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER void    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products    setenv BUILD_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/69/xdw8y23d2jd5ltnbd2x8zkqm0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/69/xdw8y23d2jd5ltnbd2x8zkqm0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/69/xdw8y23d2jd5ltnbd2x8zkqm0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH ou_iPad.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CORDOVALIB /Users/void/Documents/CordovaLib    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH ou_iPad.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/ou_iPad.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME ou_iPad.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH ou_iPad.app/Executables    setenv EXECUTABLE_FOLDER_PATH ou_iPad.app    setenv EXECUTABLE_NAME ou_iPad    setenv EXECUTABLE_PATH ou_iPad.app/ou_iPad    setenv FILE_LIST /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH ou_iPad.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME ou_iPad.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER ou_iPad/ou_iPad-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include\" \"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/usr/local/lib/include\" \"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include\" \"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE ou_iPad/ou_iPad-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH ou_iPad.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH ou_iPad.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/ou_iPad.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER void    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/ou_iPad.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH ou_iPad.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal/i386/ou_iPad.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH ou_iPad.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Objects-normal    setenv OBJROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH ou_iPad.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/PkgInfo    setenv PKGINFO_PATH ou_iPad.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60100    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH ou_iPad.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH ou_iPad.app/PrivateHeaders    setenv PRODUCT_NAME ou_iPad    setenv PRODUCT_SETTINGS_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT ou_iPad    setenv PROJECT_DERIVED_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/DerivedSources    setenv PROJECT_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PROJECT_FILE_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad.xcodeproj    setenv PROJECT_NAME ou_iPad    setenv PROJECT_TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build    setenv PROJECT_TEMP_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates    setenv PUBLIC_HEADERS_FOLDER_PATH ou_iPad.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH ou_iPad.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk    setenv SDK_NAME iphonesimulator6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH ou_iPad.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH ou_iPad.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv SRCROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 2    setenv TARGETNAME ou_iPad    setenv TARGET_BUILD_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator    setenv TARGET_NAME ou_iPad    setenv TARGET_TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build    setenv TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build    setenv TEMP_FILES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build    setenv TEMP_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build    setenv TEMP_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH ou_iPad.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER void    setenv USER_APPS_DIR /Users/void/Applications    setenv USER_LIBRARY_DIR /Users/void/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH ou_iPad.app/version.plist    setenv VERSION_INFO_BUILDER void    setenv VERSION_INFO_FILE ou_iPad_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:ou_iPad  PROJECT:ou_iPad-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME ou_iPad.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1503    setenv XCODE_VERSION_ACTUAL 0463    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/Script-304B58A110DAC018002A0835.sh36"5C34D944-0A78-4E2A-B81D-C789F2963309-
+
+CProcessInfoPlistFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Info.plist ou_iPad/ou_iPad-Info.plist
+s393479467.533049
+e393479467.538012
+r1
+xProcessInfoPlistFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Info.plist
+xou_iPad/ou_iPad-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process ou_iPad/ou_iPad-Info.pliste485882b0574b741^f9bd892b0574b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Info.plist0000000000000000^785"ProcessInfoPlistFile Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Info.plist ou_iPad/ou_iPad-Info.plist    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ou_iPad/ou_iPad-Info.plist -genpkginfo /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app/Info.plist36"E6B1D930-1D65-45DE-BF8D-773760FEE71E-
+
+CProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475807.442853
+e393475807.914000
+r1
+xProcessPCH
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.pth
+xou_iPad/ou_iPad-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile ou_iPad/ou_iPad-Prefix.pch508f71dff673b741^5dfce9dff673b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch0000000000000000^3998"ProcessPCH Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources/i386 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphonesimulator/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.pth -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-gmlupzredyxdrpcaagmmqtjxofbv/ou_iPad-Prefix.pch.d36"319F1824-6382-49DF-BFFD-1A74D465D893-
+
+CProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Index/PrecompiledHeaders/ou_iPad-Prefix-bxqpnagtgzfqfmebzbhkywgneurz_ast/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app
+s393479468.865857
+e393479468.874374
+r1
+xTouch
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Touch /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app76c0dd2c0574b741^2cd7df2c0574b741^---0#0#0#--478"Touch Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphonesimulator/ou_iPad.app36"7BBF7E26-A698-45B7-8432-329AFE47532D-
+

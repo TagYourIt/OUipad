@@ -1,0 +1,829 @@
+Tou_iPad
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Info.plist ou_iPad/ou_iPad-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist
+cPhaseScriptExecution "Copy www directory" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+cCpResource ou_iPad/config.xml Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/config.xml
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon.png ou_iPad/Resources/icons/icon.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72.png ou_iPad/Resources/icons/icon-72.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon@2x.png ou_iPad/Resources/icons/icon@2x.png
+cCpResource ou_iPad/Resources/Capture.bundle Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Capture.bundle
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/en.lproj/Localizable.strings ou_iPad/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/es.lproj/Localizable.strings ou_iPad/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/de.lproj/Localizable.strings ou_iPad/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/se.lproj/Localizable.strings ou_iPad/Resources/se.lproj/Localizable.strings
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape@2x~ipad.png ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape~ipad.png ou_iPad/Resources/splash/Default-Landscape~ipad.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait@2x~ipad.png ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait~ipad.png ou_iPad/Resources/splash/Default-Portrait~ipad.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default@2x~iphone.png ou_iPad/Resources/splash/Default@2x~iphone.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default~iphone.png ou_iPad/Resources/splash/Default~iphone.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-568h@2x~iphone.png ou_iPad/Resources/splash/Default-568h@2x~iphone.png
+cCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72@2x.png ou_iPad/Resources/icons/icon-72@2x.png
+cProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad normal armv7s
+cLd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad normal armv7
+cCreateUniversalBinary /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad normal "armv7 armv7s"
+cGenerateDSYMFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYM /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad
+cProcessProductPackaging "/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision
+cTouch /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent
+cCodeSign /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051BE55880000000000000110
+t1371428232
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000510B0D9200000000000001A7
+t1359678866
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000510B0D9200000000000001E5
+t1359678866
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000510B0D94000000000036CDF0
+t1359678868
+s3591664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000510B0D93000000000014A320
+t1359678867
+s1352480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000510B0D9400000000002AC100
+t1359678868
+s2801920
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000510B0D93000000000003AE00
+t1359678867
+s241152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000510B0D9400000000006B1F40
+t1359678868
+s7020352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000510B0D9400000000002C8530
+t1359678868
+s2917680
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000510B0D940000000000322700
+t1359678868
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000510B0D940000000000114910
+t1359678868
+s1132816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000510B0D9400000000001694D0
+t1359678868
+s1479888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000510B0D95000000000062AD10
+t1359678869
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000510B0D96000000000048AAE0
+t1359678870
+s4762336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000510B0D9600000000005807F0
+t1359678870
+s5769200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000510B0D95000000000012C360
+t1359678869
+s1229664
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c00000000510B0D95000000000005C570
+t1359678869
+s378224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000510B0D9600000000003596B0
+t1359678870
+s3511984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000510B0D9600000000000CAFB0
+t1359678870
+s831408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000510B0D9900000000011BCDF0
+t1359678873
+s18599408
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.pth
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.pth
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.o
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad.LinkFileList
+c0000000051C3BFAD0000000000000207
+t1371783085
+s519
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.o
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.o
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.o
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad.LinkFileList
+c0000000051C3BFAD000000000000020A
+t1371783085
+s522
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+c0000000051C3BFAD000000000000051A
+t1371783085
+s1306
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/libCordova.a
+c0000000051C3BFAC0000000000726458
+t1371783084
+s7496792
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYM
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Capture.bundle
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-568h@2x~iphone.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape@2x~ipad.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape~ipad.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait@2x~ipad.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait~ipad.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default@2x~iphone.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default~iphone.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Info.plist
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/MainViewController.nib
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/PkgInfo
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/config.xml
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72@2x.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon@2x.png
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/se.lproj/Localizable.strings
+t2
+s0
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m
+c0000000051C3BB2D00000000000013D4
+t1371781933
+s5076
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m
+c0000000051C3BB2D0000000000001268
+t1371781933
+s4712
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+c0000000051C3BB2C0000000000001759
+t1371781932
+s5977
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/Capture.bundle
+c0000000051C3BB2D000000000000030E
+t1371781933
+s782
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/de.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004BF
+t1371781933
+s1215
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/en.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004AA
+t1371781933
+s1194
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/es.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004B7
+t1371781933
+s1207
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72.png
+c0000000051C3BB2D0000000000001350
+t1371781933
+s4944
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72@2x.png
+c0000000051C3BB2D0000000000002DBA
+t1371781933
+s11706
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon.png
+c0000000051C3BB2D0000000000000F3E
+t1371781933
+s3902
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon@2x.png
+c0000000051C3BB2D0000000000001EBD
+t1371781933
+s7869
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/se.lproj/Localizable.strings
+c0000000051C3BB2D00000000000004AB
+t1371781933
+s1195
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-568h@2x~iphone.png
+c0000000051C3BB2D00000000000085B1
+t1371781933
+s34225
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png
+c0000000051C3BB2D0000000000012DF4
+t1371781933
+s77300
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape~ipad.png
+c0000000051C3BB2D0000000000008877
+t1371781933
+s34935
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png
+c0000000051C3BB2D0000000000012B02
+t1371781933
+s76546
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait~ipad.png
+c0000000051C3BB2D00000000000085E6
+t1371781933
+s34278
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default@2x~iphone.png
+c0000000051C3BB2D0000000000007323
+t1371781933
+s29475
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default~iphone.png
+c0000000051C3BB2D000000000000289A
+t1371781933
+s10394
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/config.xml
+c0000000051C3BB2C0000000000001100
+t1371781932
+s4352
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m
+c0000000051C3BB2D0000000000000459
+t1371781933
+s1113
+
+N/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch
+c0000000051C3BB2D00000000000003BF
+t1371781933
+s959
+
+N/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision
+c0000000051B9F1A80000000000002017
+t1371140520
+s8215
+
+Nou_iPad/ou_iPad-Info.plist
+c0000000051C3BB2D00000000000009CF
+t1371781933
+s2511
+
+CBuild AST from /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m
+r0
+
+CBuild AST from /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m
+r0
+
+CBuild AST from /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesc4d0122df773b741^04ffab2df773b741^---0#1#0#--18"Check dependencies36"61D4189B-12BE-49DB-AA47-FF609033AC99-
+
+CCodeSign /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app
+s393475890.513258
+e393475890.966179
+r1
+xCodeSign
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"CodeSign Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app207d8332f773b741^9357f732f773b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/0000000000000000^973"CodeSign Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign c957d033bfd0539d53b9dfacc3dc08dd09b6f3e8 --resource-rules=/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist --entitlements /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app36"A0A0A00C-3494-40EA-AE91-5817FE6F4703-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475888.017661
+e393475888.161204
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]
+o    self.viewController.useSplashScreen = YES;
+o                        ^
+o/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here
+o@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");
+o                                              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m18e90530f773b741^bf432930f773b741^-747"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]    self.viewController.useSplashScreen = YES;                        ^/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");                                              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@128"'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property.-393475888#18446744073709551615#0#1(2@31"'useSplashScreen' declared here-393475888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/CordovaLib/Classes/CDVViewController.h0000000000000000^45#46#45#46#1826#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@106"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m0000000000000000^79#24#79#24#2692#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@106"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m0000000000000000^3990"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.o ou_iPad/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/AppDelegate.o36"191E8E5D-7589-468E-874A-60B0BAA4F227-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475888.057778
+e393475888.160244
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m0dfa0e30f773b741^e6042930f773b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m0000000000000000^4032"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.o ou_iPad/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/MainViewController.o36"48A1BC29-4A87-493D-80F0-09BF698391F3-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475888.024361
+e393475888.056398
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m41630630f773b741^726f0e30f773b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m0000000000000000^3932"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.o ou_iPad/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/main.o36"3CA338BD-1A38-44C1-9A78-334992CB736F-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475887.973005
+e393475888.093693
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]
+o    self.viewController.useSplashScreen = YES;
+o                        ^
+o/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here
+o@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");
+o                                              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m166af92ff773b741^c6f91730f773b741^-747"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]    self.viewController.useSplashScreen = YES;                        ^/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");                                              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@128"'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property.-393475888#18446744073709551615#0#1(2@31"'useSplashScreen' declared here-393475888#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/CordovaLib/Classes/CDVViewController.h0000000000000000^45#46#45#46#1826#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@106"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m0000000000000000^79#24#79#24#2692#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@106"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m0000000000000000^3997"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.o ou_iPad/Classes/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7s -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/AppDelegate.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/AppDelegate.o36"5557B412-45A0-4DB3-9EE1-2D1AB10D80D1-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475887.973023
+e393475888.079581
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m7b6af92ff773b741^b35e1430f773b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m0000000000000000^4039"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.o ou_iPad/Classes/MainViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7s -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/MainViewController.o36"6FDB1B6C-402D-4C79-876D-0CCA1A80531F-
+
+CCompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475887.972988
+e393475888.023053
+r1
+xCompileC
+xBuild/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.o
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m9d66f92ff773b741^b9fe0530f773b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m0000000000000000^3939"CompileC Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.o ou_iPad/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7s -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -include /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/main.m -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/main.o36"A763A34B-17AB-4384-914A-0FEAC314D3C2-
+
+CCompileXIB /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+s393475886.937706
+e393475886.963655
+r1
+xCompileXIB
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xibc520f02ef773b741^9e0bf72ef773b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib0000000000000000^931"CompileXIB ou_iPad/Classes/MainViewController.xib    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/MainViewController.nib /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"E69C3BD6-AE05-4CB1-B35E-978B7252678F-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-568h@2x~iphone.png ou_iPad/Resources/splash/Default-568h@2x~iphone.png
+s393475887.281871
+e393475887.427251
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-568h@2x~iphone.png
+xou_iPad/Resources/splash/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-568h@2x~iphone.png ou_iPad/Resources/splash/Default-568h@2x~iphone.png6b44482ff773b741^83686d2ff773b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-568h@2x~iphone.png0000000000000000^782"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-568h@2x~iphone.png" "ou_iPad/Resources/splash/Default-568h@2x~iphone.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-568h@2x~iphone.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-568h@2x~iphone.png"36"6CB06DBC-1AC5-408D-9359-3FEFF43A6425-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape@2x~ipad.png ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png
+s393475886.965291
+e393475887.489073
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape@2x~ipad.png
+xou_iPad/Resources/splash/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape@2x~ipad.png ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png6138f72ef773b741^3c337d2ff773b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png0000000000000000^794"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape@2x~ipad.png" "ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape@2x~ipad.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape@2x~ipad.png"36"377CC451-DD26-4A5E-81C3-2C9184E09DC0-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape~ipad.png ou_iPad/Resources/splash/Default-Landscape~ipad.png
+s393475886.968008
+e393475887.190194
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape~ipad.png
+xou_iPad/Resources/splash/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape~ipad.png ou_iPad/Resources/splash/Default-Landscape~ipad.png29ebf72ef773b741^b4af302ff773b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape~ipad.png0000000000000000^782"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape~ipad.png" "ou_iPad/Resources/splash/Default-Landscape~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Landscape~ipad.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Landscape~ipad.png"36"114B53A6-3CDE-4395-9A79-619383E653E9-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait@2x~ipad.png ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png
+s393475886.968105
+e393475887.474687
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait@2x~ipad.png
+xou_iPad/Resources/splash/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait@2x~ipad.png ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png25ecf72ef773b741^a184792ff773b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png0000000000000000^790"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait@2x~ipad.png" "ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait@2x~ipad.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait@2x~ipad.png"36"3AE6D45A-1A2C-436F-A7FD-EC712260A481-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait~ipad.png ou_iPad/Resources/splash/Default-Portrait~ipad.png
+s393475886.970738
+e393475887.204725
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait~ipad.png
+xou_iPad/Resources/splash/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait~ipad.png ou_iPad/Resources/splash/Default-Portrait~ipad.png46b1f82ef773b741^4568342ff773b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait~ipad.png0000000000000000^778"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait~ipad.png" "ou_iPad/Resources/splash/Default-Portrait~ipad.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default-Portrait~ipad.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default-Portrait~ipad.png"36"70B286B3-3827-42D2-AB20-910DC53C25D9-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default@2x~iphone.png ou_iPad/Resources/splash/Default@2x~iphone.png
+s393475887.191541
+e393475887.333108
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default@2x~iphone.png
+xou_iPad/Resources/splash/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default@2x~iphone.png ou_iPad/Resources/splash/Default@2x~iphone.png4f23312ff773b741^3947552ff773b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default@2x~iphone.png0000000000000000^762"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default@2x~iphone.png" "ou_iPad/Resources/splash/Default@2x~iphone.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default@2x~iphone.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default@2x~iphone.png"36"08C8F6D1-1A95-4B30-80C2-B4B7F0C79C52-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default~iphone.png ou_iPad/Resources/splash/Default~iphone.png
+s393475887.207396
+e393475887.280518
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default~iphone.png
+xou_iPad/Resources/splash/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default~iphone.png ou_iPad/Resources/splash/Default~iphone.png6535352ff773b741^a2cf472ff773b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default~iphone.png0000000000000000^750"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default~iphone.png" "ou_iPad/Resources/splash/Default~iphone.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/splash/Default~iphone.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Default~iphone.png"36"EBF03198-780B-4117-99C5-5778CEE86E83-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72.png ou_iPad/Resources/icons/icon-72.png
+s393475886.805138
+e393475886.961974
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72.png
+xou_iPad/Resources/icons/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72.png ou_iPad/Resources/icons/icon-72.pngf033ce2ef773b741^828ef62ef773b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72.png0000000000000000^712"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72.png ou_iPad/Resources/icons/icon-72.png    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72.png /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72.png36"136AEBD2-98A1-4FAA-BC03-139746FFF7F4-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72@2x.png ou_iPad/Resources/icons/icon-72@2x.png
+s393475887.334444
+e393475887.385622
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72@2x.png
+xou_iPad/Resources/icons/icon-72@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72@2x.png ou_iPad/Resources/icons/icon-72@2x.png35b8552ff773b741^aab7622ff773b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72@2x.png0000000000000000^732"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72@2x.png" "ou_iPad/Resources/icons/icon-72@2x.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon-72@2x.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon-72@2x.png"36"4C527FAF-96EA-43F7-9BB3-F8D6E60DD2F4-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon.png ou_iPad/Resources/icons/icon.png
+s393475886.805132
+e393475886.961264
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon.png
+xou_iPad/Resources/icons/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon.png ou_iPad/Resources/icons/icon.png8b33ce2ef773b741^4f22f62ef773b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon.png0000000000000000^700"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon.png ou_iPad/Resources/icons/icon.png    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon.png /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon.png36"038879AB-74E8-4A5B-AA8C-DDF461841698-
+
+CCopyPNGFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon@2x.png ou_iPad/Resources/icons/icon@2x.png
+s393475886.805354
+e393475886.966713
+r1
+xCopyPNGFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon@2x.png
+xou_iPad/Resources/icons/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"CopyPNGFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon@2x.png ou_iPad/Resources/icons/icon@2x.pngb840ce2ef773b741^2c7ef72ef773b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon@2x.png0000000000000000^720"CopyPNGFile "Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon@2x.png" "ou_iPad/Resources/icons/icon@2x.png"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/icons/icon@2x.png" "/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/icon@2x.png"36"849DF768-590A-4593-B10D-CDAB8F92F837-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/de.lproj/Localizable.strings ou_iPad/Resources/de.lproj/Localizable.strings
+s393475886.962601
+e393475886.969433
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/de.lproj/Localizable.strings
+xou_iPad/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/de.lproj/Localizable.strings5186f62ef773b741^f92ff82ef773b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/de.lproj/Localizable.strings0000000000000000^670"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/de.lproj/Localizable.strings ou_iPad/Resources/de.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/de.lproj -- ou_iPad/Resources/de.lproj/Localizable.strings36"7CAF2979-41A9-40E8-A3EA-C95541A47CCD-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/en.lproj/Localizable.strings ou_iPad/Resources/en.lproj/Localizable.strings
+s393475886.821342
+e393475886.908215
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/en.lproj/Localizable.strings
+xou_iPad/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/en.lproj/Localizable.strings5f60d22ef773b741^3080e82ef773b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/en.lproj/Localizable.strings0000000000000000^670"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/en.lproj/Localizable.strings ou_iPad/Resources/en.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/en.lproj -- ou_iPad/Resources/en.lproj/Localizable.strings36"3FFEA74E-E1FC-4C8A-A89D-1F25B9700DAB-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/es.lproj/Localizable.strings ou_iPad/Resources/es.lproj/Localizable.strings
+s393475886.909757
+e393475886.936376
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/es.lproj/Localizable.strings
+xou_iPad/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/es.lproj/Localizable.stringsbb0ae92ef773b741^03b6ef2ef773b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/es.lproj/Localizable.strings0000000000000000^670"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/es.lproj/Localizable.strings ou_iPad/Resources/es.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/es.lproj -- ou_iPad/Resources/es.lproj/Localizable.strings36"4C7F0E7B-EFCC-453A-A830-6203D1D5B3D6-
+
+CCopyStringsFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/se.lproj/Localizable.strings ou_iPad/Resources/se.lproj/Localizable.strings
+s393475886.963058
+e393475886.967167
+r1
+xCopyStringsFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/se.lproj/Localizable.strings
+xou_iPad/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy ou_iPad/Resources/se.lproj/Localizable.strings23a0f62ef773b741^459ff72ef773b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/se.lproj/Localizable.strings0000000000000000^670"CopyStringsFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/se.lproj/Localizable.strings ou_iPad/Resources/se.lproj/Localizable.strings    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/se.lproj -- ou_iPad/Resources/se.lproj/Localizable.strings36"F8A812AC-2DCC-43BE-B876-3BB46003BB51-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist
+s393475885.683056
+e393475885.685760
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xBuild/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plistcff4ae2df773b741^2a8eaf2df773b741^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist000000000080d041^816"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app36"0FE4F31C-308B-45EB-94C7-694CA749C4CB-
+
+CCpResource ou_iPad/Resources/Capture.bundle Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Capture.bundle
+s393475886.808765
+e393475886.819998
+r1
+xCpResource
+xou_iPad/Resources/Capture.bundle
+xBuild/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Capture.bundle8f1acf2ef773b741^d9ebd12ef773b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Capture.bundle000000000080d041^694"CpResource ou_iPad/Resources/Capture.bundle Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Capture.bundle    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/Resources/Capture.bundle /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app36"5B506449-F10C-434F-961E-AC7231B8906C-
+
+CCpResource ou_iPad/config.xml Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/config.xml
+s393475886.805127
+e393475886.807559
+r1
+xCpResource
+xou_iPad/config.xml
+xBuild/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/config.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Copy Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/config.xml2733ce2ef773b741^b6bcce2ef773b741^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/config.xml000000000080d041^662"CpResource ou_iPad/config.xml Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/config.xml    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/config.xml /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app36"6FF65674-FA63-4939-BBEC-B79D199B2B50-
+
+CCreateUniversalBinary /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad normal "armv7 armv7s"
+s393475890.179461
+e393475890.236012
+r1
+xCreateUniversalBinary
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Create universal binary /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPadd61a2e32f773b741^506d3c32f773b741^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad000000000080d041^849"CreateUniversalBinary Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad normal "armv7 armv7s"    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    lipo -create /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad -output /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad36"285014DC-F892-41D1-AC88-6BFE322C78F3-
+
+CGenerateDSYMFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYM /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad
+s393475890.242897
+e393475890.440427
+r1
+xGenerateDSYMFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYM
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Generate /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYMb94f3e32f773b741^27c07032f773b741^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYM000000000080d041^748"GenerateDSYMFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYM Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ou_iPad -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app.dSYM36"10D73782-21D1-4CE2-8285-95BCDD42E687-
+
+CLd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad normal armv7
+s393475888.167431
+e393475890.171017
+r1
+xLd
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Link /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad29072b30f773b741^6dc82b32f773b741^---0#0#0#--1963"Ld Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad normal armv7    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -filelist /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad.LinkFileList -dead_strip -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -miphoneos-version-min=5.0 -framework CoreLocation -framework ImageIO -framework OpenAL -framework AssetsLibrary /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -framework CoreLocation -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad36"86C244C0-30AE-4C73-9B06-DBADD864B880-
+
+CLd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad normal armv7s
+s393475888.100780
+e393475890.173180
+r1
+xLd
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection172"Link /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPadaef51930f773b741^ef542c32f773b741^---0#0#0#--1968"Ld Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad normal armv7s    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -filelist /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad.LinkFileList -dead_strip -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C -fobjc-link-runtime -miphoneos-version-min=5.0 -framework CoreLocation -framework ImageIO -framework OpenAL -framework AssetsLibrary /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/libCordova.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -framework CoreLocation -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad36"52F9728E-FF48-481A-8076-0627F8E56E2F-
+
+CPhaseScriptExecution "Copy www directory" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+s393475885.704016
+e393475886.796819
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m1.073s
+ouser	0m0.433s
+osys	0m0.586s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'6403b52df773b741^bdfbcb2ef773b741^-42"real	0m1.073suser	0m0.433ssys	0m0.586s3(21%IDEActivityLogMessage2@14"real	0m1.073s-393475886#1#14#-0#-----2@14"user	0m0.433s-393475886#15#14#-0#-----2@13"sys	0m0.586s-393475886#29#13#-0#-----0#0#0#--22713"PhaseScriptExecution "Copy www directory" Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Script-304B58A110DAC018002A0835.sh    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER void    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv7 armv7s"    setenv ARCHS_STANDARD_32_64_BIT "armv7 armv7s"    setenv ARCHS_STANDARD_32_BIT "armv7 armv7s"    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv7 armv7s"    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products    setenv BUILD_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos    setenv CACHE_ROOT /var/folders/69/xdw8y23d2jd5ltnbd2x8zkqm0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/69/xdw8y23d2jd5ltnbd2x8zkqm0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/69/xdw8y23d2jd5ltnbd2x8zkqm0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos    setenv CONTENTS_FOLDER_PATH ou_iPad.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CORDOVALIB /Users/void/Documents/CordovaLib    setenv CP /bin/cp    setenv CURRENT_ARCH armv7s    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH ou_iPad.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/ou_iPad.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME ou_iPad.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH ou_iPad.app/Executables    setenv EXECUTABLE_FOLDER_PATH ou_iPad.app    setenv EXECUTABLE_NAME ou_iPad    setenv EXECUTABLE_PATH ou_iPad.app/ou_iPad    setenv FILE_LIST /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH ou_iPad.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME ou_iPad.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER ou_iPad/ou_iPad-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include\" \"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include\" \"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include\" \"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE ou_iPad/ou_iPad-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH ou_iPad.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH ou_iPad.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/ou_iPad.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER void    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/ou_iPad.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH ou_iPad.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-LinkMap-normal-armv7s.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv7 /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7/ou_iPad.LinkFileList    setenv LINK_FILE_LIST_normal_armv7s /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal/armv7s/ou_iPad.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH ou_iPad.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv NATIVE_ARCH armv7    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Objects-normal    setenv OBJROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH ou_iPad.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/PkgInfo    setenv PKGINFO_PATH ou_iPad.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PREFERRED_ARCH armv7    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH ou_iPad.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH ou_iPad.app/PrivateHeaders    setenv PRODUCT_NAME ou_iPad    setenv PRODUCT_SETTINGS_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT ou_iPad    setenv PROJECT_DERIVED_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/DerivedSources    setenv PROJECT_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PROJECT_FILE_PATH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad.xcodeproj    setenv PROJECT_NAME ou_iPad    setenv PROJECT_TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build    setenv PROJECT_TEMP_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH ou_iPad.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH ou_iPad.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk    setenv SDK_NAME iphoneos6.1    setenv SDK_PRODUCT_BUILD_VERSION 10B141    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH ou_iPad.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH ou_iPad.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv SRCROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME ou_iPad    setenv TARGET_BUILD_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos    setenv TARGET_NAME ou_iPad    setenv TARGET_TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build    setenv TEMP_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build    setenv TEMP_FILES_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build    setenv TEMP_FILE_DIR /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build    setenv TEMP_ROOT /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH ou_iPad.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER void    setenv USER_APPS_DIR /Users/void/Applications    setenv USER_LIBRARY_DIR /Users/void/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv7 armv7s"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH ou_iPad.app/version.plist    setenv VERSION_INFO_BUILDER void    setenv VERSION_INFO_FILE ou_iPad_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:ou_iPad  PROJECT:ou_iPad-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME ou_iPad.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1503    setenv XCODE_VERSION_ACTUAL 0463    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/Script-304B58A110DAC018002A0835.sh36"3DCFFA6F-84F6-45A0-B2CA-621BC8F10361-
+
+CProcessInfoPlistFile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Info.plist ou_iPad/ou_iPad-Info.plist
+s393475885.683054
+e393475885.695716
+r1
+xProcessInfoPlistFile
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Info.plist
+xou_iPad/ou_iPad-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process ou_iPad/ou_iPad-Info.plistcff4ae2df773b741^b01bb22df773b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Info.plist0000000000000000^906"ProcessInfoPlistFile Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Info.plist ou_iPad/ou_iPad-Info.plist    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ou_iPad/ou_iPad-Info.plist -genpkginfo /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/ResourceRules.plist -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/Info.plist36"8CB97E47-2030-4403-907B-240E9D5677A4-
+
+CProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475887.497118
+e393475888.007029
+r1
+xProcessPCH
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.pth
+xou_iPad/ou_iPad-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile ou_iPad/ou_iPad-Prefix.pch30627f2ff773b741^89d30130f773b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch0000000000000000^3835"ProcessPCH Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7 -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.pth -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-apreyalpegasrscxsaczkbxqfjgb/ou_iPad-Prefix.pch.d36"907A80FB-CE1D-440A-8128-4ACFBA1663B8-
+
+CProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s393475887.497131
+e393475887.965944
+r1
+xProcessPCH
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.pth
+xou_iPad/ou_iPad-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile ou_iPad/ou_iPad-Prefix.pchb7627f2ff773b741^9547f72ff773b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch0000000000000000^3838"ProcessPCH Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-generated-files.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-own-target-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-all-target-headers.hmap -iquote /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad-project-headers.hmap -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/usr/local/lib/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/UninstalledProducts/include -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources/armv7s -I/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/DerivedSources -F/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.dia -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/ou_iPad/ou_iPad-Prefix.pch -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.pth -MMD -MT dependencies -MF /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/PrecompiledHeaders/ou_iPad-Prefix-awzojgdvnwxxkrccamzrqdgjxhan/ou_iPad-Prefix.pch.d36"AEBF1F12-645E-41EB-94C8-24F9FF2A40D3-
+
+CProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Index/PrecompiledHeaders/ou_iPad-Prefix-byhfqpnlheycclbjvzwhrwmyntvj_ast/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Index/PrecompiledHeaders/ou_iPad-Prefix-czpssbbrdfwoiibaemixqpaibhrr_ast/ou_iPad-Prefix.pch.pth ou_iPad/ou_iPad-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision" /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision
+s393475890.472764
+e393475890.478531
+r1
+xProcessProductPackaging
+x/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection214"ProcessProductPackaging "/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision" Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision68217932f773b741^bf807a32f773b741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision0000000000000000^762"ProcessProductPackaging "/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision" Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/void/Library/MobileDevice/Provisioning Profiles/0065E6AB-2607-4572-8A4A-C48F7BAC85EA.mobileprovision" -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app/embedded.mobileprovision36"33974C65-8947-45DF-A0B3-493D43ED5315-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent
+s393475890.501266
+e393475890.504956
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection235"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent75748032f773b741^03448132f773b741^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent000000000080d041^830"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Intermediates/ou_iPad.build/Debug-iphoneos/ou_iPad.build/ou_iPad.xcent36"A6FDF177-F1EA-47B0-A42E-996F6181968A-
+
+CTouch /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app
+s393475890.486709
+e393475890.493011
+r1
+xTouch
+x/Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Touch /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app8ba97c32f773b741^61357e32f773b741^---0#0#0#--457"Touch Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app    cd /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/void/Documents/WORK/iPhoneDevelopment/PhoneGap/OUipad/Build/ou_iPad/Build/Products/Debug-iphoneos/ou_iPad.app36"2C3F7828-B154-447C-81B5-7D7A95BCD6D5-
+
